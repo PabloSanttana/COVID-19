@@ -14,6 +14,6 @@
 ![gif-covid](https://github.com/PabloSanttana/COVID-19/blob/master/Layout/covid19.gif)
 
 
-#### Mais informção sobre React-native
+#### Mais informação sobre React-native
 
 [React-Native](https://reactnative.dev/)
